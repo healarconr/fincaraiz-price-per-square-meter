@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         fincaraiz.com.co price per square meter
 // @namespace    https://github.com/healarconr
-// @version      0.1
+// @version      0.2
 // @description  Show the price per square meter in the search results of fincaraiz.com.co
 // @author       Hernán Alarcón
 // @match        https://www.fincaraiz.com.co/*
